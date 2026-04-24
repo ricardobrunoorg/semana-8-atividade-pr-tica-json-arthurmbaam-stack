@@ -5,15 +5,15 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Arthur Moraes Braga Araujo
+- Matricula: 1025300
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+![listagem_de_titulos](public/images/Listagemdetitulos.png)
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+![cálculo_das_médias](public/images/Cálculodasmédias.png)
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+![resumo_das_checagens](public/images/Resumodaschecagens.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![resumo](public/images/Resumo.png)
