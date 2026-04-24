@@ -60,7 +60,7 @@ const catalogo=[
 console.log(catalogo);
 console.log("Primeiro título: ",catalogo[0].titulo);
 console.log("Ano do ultimo filme: ",catalogo[5].ano);
-console.log("Segundo gênero do terceiro filme: ",catalogo[3].generos[1]);
+console.log("Segundo gênero do terceiro filme: ",catalogo[2].generos[1]);
 
 //B.3. Iterações com iterators
 //a)
